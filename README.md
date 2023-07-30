@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajpatil08&label=Profile%20views&color=0e75b6&style=flat" alt="swarajpatil08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/swarajpatil__" target="blank"><img src="https://img.shields.io/twitter/follow/swarajpatil__?logo=twitter&style=for-the-badge" alt="swarajpatil__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/swarajpatil_" target="blank"><img src="https://img.shields.io/twitter/follow/swarajpatil__?logo=twitter&style=for-the-badge" alt="swarajpatil__" /></a> </p>
 
 - 🔭 I’m currently working on **Python, React.**
 
