@@ -1,5 +1,7 @@
+![MasterHead](https://previews.123rf.com/images/pikepicture/pikepicture1908/pikepicture190802588/128885560-binary-code-background-black-and-white-background-with-digits.jpg)
 # About Me: <br>
-> I’m currently working on Python , React and Web Development<br> > I’m looking to collaborate on projects related to Python and Web development.<br> > I’m looking for help with<br> > I’m currently learning React and Selenium.<br> 
+<img align="right" width="400" src="https://dexterexplains.com/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhOV2czYW1oa05HUnZPSEJwYzIxcU1YTnVOM1p0TmpkcFpUTjNaUVk2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpYzJsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpjMU1EbGtaalF5TmprME9UVTVZV00xWldJeVpHRXlPR0poT1RZeE9HUTNMbkJ1WnlJN0lHWnBiR1Z1WVcxbEtqMVZWRVl0T0Njbk56VXdPV1JtTkRJMk9UUTVOVGxoWXpWbFlqSmtZVEk0WW1FNU5qRTRaRGN1Y0c1bkJqc0dWRG9SWTI5dWRHVnVkRjkwZVhCbFNTSU9hVzFoWjJVdmNHNW5CanNHVkRvUmMyVnlkbWxqWlY5dVlXMWxPZ3BzYjJOaGJBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2Jfa2V5In19--65246168084bc342fec65b5f6ed82f86e43f2d1d/7509df42694959ac5eb2da28ba9618d7.png">
+> I’m currently working on Python , React and Web Development<br> > I’m looking to collaborate on projects related to Python and Web development.<br> > I’m looking for help with React , JS.<br> > I’m currently learning React and Selenium.<br> 
 
 
 ## 🌐 Socials:
@@ -18,4 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Swarajpatil08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
