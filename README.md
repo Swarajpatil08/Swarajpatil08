@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvsThLV52Su3sL7uGWboTRl-fdmfENOq0Ww&usqp=CAU)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcvsThLV52Su3sL7uGWboTRl-fdmfENOq0Ww&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Swaraj.</h1>
 <h3 align="center">A Young Passionate Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,c_lpad,h_760,w_1380,f_auto/DK_code_afro_yawhdn.jpg">
